@@ -1,2 +1,2 @@
 # spotify-homePage
-mt first project is crating a home page of spotify 
+My first project is crating a home page of spotify 
